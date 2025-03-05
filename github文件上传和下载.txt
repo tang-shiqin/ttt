@@ -1,0 +1,6 @@
+1.GitHub云端代码仓库（加速器）=》码云（国内）
+2.下载项目：git clone 仓库地址
+上传文件：
+1）添加要上传的文件： git add .(.代表所有)
+2）提交版本信息：git commit -m '1.0'
+3) 上传到远端仓库：git push -u  origin master 
